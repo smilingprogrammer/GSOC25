@@ -47,7 +47,7 @@ However, Currently in the Safaa Project, data is manually curated And we see tha
 - Integrated to work with Github Action.
 - Manual trigger of Pipeline.
 
-The project was created by the code easily understood for future contibutions. Well structured for understanding, and to be easily used for retraining of Safaa model through GitHub action. Additionally made easier to make decision on whether to merge retrained model PR or not.
+The pipeline project code is made easy to understand for future contributions. It is well-structured for clarity and can be easily used to retrain the Safaa model through GitHub Actions. Additionally, it simplifies the decision-making process (through metrics display in CI PR) on whether to merge a retrained model PR or not
 
 <p align="center">
   <img src="files/safaapipe1.png" alt="Retraining Step" width="800"/>
